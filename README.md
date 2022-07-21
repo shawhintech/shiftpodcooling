@@ -48,9 +48,9 @@ https://www.apache.org/licenses/LICENSE-2.0.txt
 <!-- CONTACT -->
 ## Contact
 
-My mailbox is currently not monitored at this time, but I will be responsive via pull requests
+My mailbox is currently not monitored,  I will be responsive via pull requests
 
-Project Link: [https://github.com/shawhintech/shiftpodcooling ](https://github.com/shawhintech/shiftodcooling)
+Project Link: [https://github.com/shawhintech/shiftpodcooling ](https://github.com/shawhintech/shiftpodcooling)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
