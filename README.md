@@ -22,12 +22,6 @@ This document aims to help you and here's why:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 If you have a suggestion that would make this document better, please fork the repo and create a pull request. 
@@ -45,7 +39,7 @@ If you have a suggestion that would make this document better, please fork the r
 <!-- LICENSE -->
 ## License
 
-Apache 2.0 obvvioisly
+Apache 2.0 -   lets make this as useful as possible
 https://www.apache.org/licenses/LICENSE-2.0.txt
 <p align="right">(<a href="#top">back to top</a>)</p>
 
