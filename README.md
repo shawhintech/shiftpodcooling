@@ -45,7 +45,7 @@ If you have a suggestion that would make this document better, please fork the r
 <!-- LICENSE -->
 ## License
 
-Apache 2.0 obvvioisly- lets make this a great resource
+Apache 2.0 obvvioisly
 https://www.apache.org/licenses/LICENSE-2.0.txt
 <p align="right">(<a href="#top">back to top</a>)</p>
 
