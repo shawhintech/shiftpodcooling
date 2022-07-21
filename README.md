@@ -5,7 +5,7 @@ A repository for documentation related to the cooling of shift pods
 
 
 
-There is information that is available through various unofficial resources and channels on cooling for the shiftpod (versions 2 and 3), but nothing that is considereed official ; I am providing a document that has what is considered the best information available for cooling a shiftpod within various environments, but mostly with dry desert conditions and for the playa.
+There exists information related to the topic that is available through various unofficial resources and channels on cooling for the shiftpod (versions 2 and 3), but nothing that is considereed official ; I am providing a document that has what is considered the best information available for cooling a shiftpod within various environments, but mostly with dry desert conditions and for the playa.
 
 
 This document aims to help you and here's why:
