@@ -11,7 +11,7 @@ There is information that is available through various unofficial resources and 
 This document aims to help you and here's why:
 
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others, not all this time researching cooling for an overpriced tent
+*Your time should be focused on creating something amazing. A project that solves a problem and helps others, not all this time researching cooling for an overpriced tent
 
 
 *You seek to understand the process of cooling the shiftpod
@@ -31,7 +31,6 @@ This document aims to help you and here's why:
 ## Contributing
 
 If you have a suggestion that would make this document better, please fork the repo and create a pull request. 
-Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -55,7 +54,7 @@ https://www.apache.org/licenses/LICENSE-2.0.txt
 <!-- CONTACT -->
 ## Contact
 
-I unfortnately will not be responsive to online communication at this time outside of pull requests
+My mailbox is currently not monitored at this time, but I will be responsive via pull requests
 
 Project Link: [https://github.com/shawhintech/shiftpodcooling ](https://github.com/shawhintech/shiftodcooling)
 
