@@ -41,4 +41,56 @@ Other ACs can be modified to work, but this takes time and skills. We do not rec
 
 WHAT IS ALUMINET?
 Aluminet is a light weight easy to use sunshade made for the agriculture industry. It is not only reflective it also blocks 70% of the light and creates great shade while also letting the wind through. We have used this material is extreme winds in some of the harshest places on earth. We don't sell it, but we highly recommend it. Please note: Any shade structure that is in direct contact with the SHIFTPOD might cause damage as it blows in the wind and grinds dust and dirt between the fabrics. Always keep some separation for best results in dusty and windy environments.
-We hope this helps! Happy Camping!
+
+
+
+AC setups at the Burn, peoples experiences, generators-
+________________________________________________________
+TLDR: More power is better, shade your pod, dual hose portable AC is better (but still creates negative pressure), hard start capacitors kind of work, soft starters should work. 
+
+SHADE!!!
+
+As nice as the Shiftpods are, putting a shade structure over your Shiftpod should be essential: Your Shiftpod will stay cooler for longer without AC and your AC unit won’t be fighting the direct sun. IF you don’t have a shade structure, try to create a gap between the Shiftpod’s blast shield and the Shiftpod. I’ve read about people using pool noodles for this. 
+
+AC Units:
+
+AC units power specs show that most 2000 watt generators should be able to handle running them. What the specs don’t show us is the surge amps that happen when an AC unit’s compressor kicks on. The amp surge sometimes overloads the generator and your AC can shut off. 
+*Window units: Without modifications, I was able to run a 8000 BTU window unit off of a Honda 2000. Anything over 8000 btu will need modifications to be 100% out at the Burn. Hard start / soft starters are the things to look into.
+
+
+Portable units: Single hose units create a large amount of negative pressure and are not advised for Shiftpods. 
+*Dual hose units are the way to go… but still create negative pressure (the floor of my Shiftpod was lifting up without anything in it and the top wanted to collapse). Bring that center pole if you want to close all of the ports while using the AC. If you’re leaving some ports open, figure out some filter options to place over the ports for dust control. 
+
+
+Generators
+*Things that will lower the output of your generator: Altitude - 3% output loss for every 1000ft. Heat - the hotter it is outside, the harder your generator has to work. Cables - are you running an extension cord with a heavier gauge? Shoot for 12 gauge or smaller. Heat will also have an effect on the cord (try to keep the cord shaded). 
+
+
+Will my Honda 2000 / 2200 / 2000 watt generator run my AC unit? 
+Yes and no. 8,000 BTU and under, both the 2200 and the 2000 should be able to handle (don’t quote me on this as every setup is different). 10,000 BTU, you’re pushing it. 12,000 BTU, your generator will be able to turn the AC on in the morning but will most likely not be able to run the AC during the hottest parts of the day. I had a friend tell me he had a 6 hour window that the AC wouldn’t work in 2019. 
+
+
+What AC unit should I buy?
+
+Whynter ARC-14S - 14,000 BTU
+-A Honda 2000 would only turn on the compressor on this unit in perfect conditions (not hot outside, generator not in sun, cords shielded). As soon as everything warmed up, nope.  2 Honda 2000’s in parallel would have no trouble running the AC in eco mode. If you grab this unit, make sure you have enough power to run it. 
+
+
+Whynter ARC-110WD - 12,000 BTU
+-A good option that uses less power than the 14s BUT could still have the compressor issues when things get hot. Less output means less cooling = make sure you have a shade structure on top of having the AC. 
+
+
+Whynter Elite ARC-122DS 12,000 BTU
+-More power consumption than the 110WD. Great option though. 
+
+Portable Inverter AC Dual Hose units
+-I have no experience with these. From what I’m reading, they’re supposed to not be all that harsh with the amp surge. More expensive and harder to find BUT might work without modifications on a 2000 watt generator. 
+
+
+Modification - Hard Start Capacitors
+-Looking online, there’s a lot of talk about installing a hard start capacitor on AC units to help handle the surge load when the compressor on the AC kicks in. I installed the SPP6 on my AC. It didn’t work with a single Honda EU2000i. Some people have got this to work. I can see a Hard Start Capacitor being helpful on a window unit. Didn’t work well with my portable unit.  
+
+Modification - Soft starter
+-These might be a good option - I have a friend who installed one of these on his RV AC unit and he says that his small generator can handle the AC unit no problem. BUT these cost a lot and there’s almost no info out there on installing them in a portable unit. ALSO - I came across someone who said that while a soft starter on his AC worked for the first half of the week, as soon as the AC unit got too dusty, the soft starter didn’t work as well and his AC didn’t work the second half of the week. 
+
+My Setup: Whynter ARC-14S, hooked into a power grid, shiftpod 3
