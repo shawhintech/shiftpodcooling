@@ -44,8 +44,8 @@ Aluminet is a light weight easy to use sunshade made for the agriculture industr
 
 
 
-AC setups at the Burn, peoples experiences, and read here if you are running on a generator (not connected to a grid)
-________________________________________________________
+*AC setups at the Burn, peoples experiences, and read here if you are running on a generator (not connected to a grid)*
+
 TLDR: More power is better, shade your pod, dual hose portable AC is better (but still creates negative pressure), hard start capacitors kind of work, soft starters should work. 
 
 SHADE!!!
@@ -98,4 +98,4 @@ Modification - Soft starter
 
 -These might be a good option -  these cost a lot and there’s almost no info out there on installing them in a portable unit. ALSO - I came across someone who said that while a soft starter on his AC worked for the first half of the week, as soon as the AC unit got too dusty, the soft starter didn’t work as well and his AC didn’t work the second half of the week. 
 
-My Setup: Whynter ARC-14S, hooked into a power grid, shiftpod 3
+My Setup: Whynter ARC-14S, hooked into a power grid, shiftpod 3 ( i will let you know how it goes as its my first pod/dual hose AC experience at the burn)
