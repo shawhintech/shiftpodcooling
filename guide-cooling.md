@@ -44,7 +44,7 @@ Aluminet is a light weight easy to use sunshade made for the agriculture industr
 
 
 
-AC setups at the Burn, peoples experiences, generators-
+AC setups at the Burn, peoples experiences, and read here if you are running on a generator (not connected to a grid)
 ________________________________________________________
 TLDR: More power is better, shade your pod, dual hose portable AC is better (but still creates negative pressure), hard start capacitors kind of work, soft starters should work. 
 
@@ -67,20 +67,23 @@ Generators
 
 
 Will my Honda 2000 / 2200 / 2000 watt generator run my AC unit? 
-Yes and no. 8,000 BTU and under, both the 2200 and the 2000 should be able to handle (don’t quote me on this as every setup is different). 10,000 BTU, you’re pushing it. 12,000 BTU, your generator will be able to turn the AC on in the morning but will most likely not be able to run the AC during the hottest parts of the day. I had a friend tell me he had a 6 hour window that the AC wouldn’t work in 2019. 
+-Yes and no. 8,000 BTU and under, both the 2200 and the 2000 should be able to handle (don’t quote me on this as every setup is different). 10,000 BTU, you’re pushing it. 12,000 BTU, your generator will be able to turn the AC on in the morning but will most likely not be able to run the AC during the hottest parts of the day.  
 
 
 What AC unit should I buy?
 
 Whynter ARC-14S - 14,000 BTU
+
 -A Honda 2000 would only turn on the compressor on this unit in perfect conditions (not hot outside, generator not in sun, cords shielded). As soon as everything warmed up, nope.  2 Honda 2000’s in parallel would have no trouble running the AC in eco mode. If you grab this unit, make sure you have enough power to run it. 
 
 
 Whynter ARC-110WD - 12,000 BTU
+
 -A good option that uses less power than the 14s BUT could still have the compressor issues when things get hot. Less output means less cooling = make sure you have a shade structure on top of having the AC. 
 
 
 Whynter Elite ARC-122DS 12,000 BTU
+
 -More power consumption than the 110WD. Great option though. 
 
 Portable Inverter AC Dual Hose units
@@ -88,9 +91,11 @@ Portable Inverter AC Dual Hose units
 
 
 Modification - Hard Start Capacitors
+
 -Looking online, there’s a lot of talk about installing a hard start capacitor on AC units to help handle the surge load when the compressor on the AC kicks in. I installed the SPP6 on my AC. It didn’t work with a single Honda EU2000i. Some people have got this to work. I can see a Hard Start Capacitor being helpful on a window unit. Didn’t work well with my portable unit.  
 
 Modification - Soft starter
--These might be a good option - I have a friend who installed one of these on his RV AC unit and he says that his small generator can handle the AC unit no problem. BUT these cost a lot and there’s almost no info out there on installing them in a portable unit. ALSO - I came across someone who said that while a soft starter on his AC worked for the first half of the week, as soon as the AC unit got too dusty, the soft starter didn’t work as well and his AC didn’t work the second half of the week. 
+
+-These might be a good option -  these cost a lot and there’s almost no info out there on installing them in a portable unit. ALSO - I came across someone who said that while a soft starter on his AC worked for the first half of the week, as soon as the AC unit got too dusty, the soft starter didn’t work as well and his AC didn’t work the second half of the week. 
 
 My Setup: Whynter ARC-14S, hooked into a power grid, shiftpod 3
